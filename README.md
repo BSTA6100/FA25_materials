@@ -5,7 +5,7 @@ PDF versions of the slides are available on our Lab Resources page on Canvas.
 All materials &#169; 2025 Nicholas J. Seewald
 
 ### Introduction and Installation Instructions
-[*Prep Work*: Intro to R and RStudio](/Lab 00.html)
+[*Prep Work*: Intro to R and RStudio](/lab00_tutorial.html)
 
 ### Tutorial Slides
 - [Lab 1](/lab01_slides.html)
