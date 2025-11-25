@@ -9,7 +9,7 @@ All materials &#169; 2025 Nicholas J. Seewald
 
 ### Tutorial Slides
 - [Lab 1](/lab01_slides.html)
-- [Lab 3](/Lab 03 Slides.html)
+- [Lab 3](/lab03_slides.html)
 
 ### Quick Links
 Jump to a specific lab by clicking the appropriate link: <br />
